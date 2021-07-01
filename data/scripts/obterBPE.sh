@@ -7,4 +7,4 @@ FASTBPE=fastBPE/fast    # caminho para fastBPE
 mkdir -p $OUTPATH
 
 $FASTBPE learnbpe 50000 conceptual_captions/cc-en.tsv.train conceptual_captions/cc-pt.tsv.train > $OUTPATH/codes
-$FASTBPE getvocab conceptual_captions/cc-en.tsv.train conceptual_captions/cc-pt.tsv.train > $OUTPATH/vocab
+$FASTBPE getvocab conceptual_captions/cc-enVocab.tsv.train conceptual_captions/cc-ptVocab.tsv.train > $OUTPATH/vocab
