@@ -3,7 +3,7 @@ Extensão do Multi30k (Elliott et al., 2016) com traduções do idioma portuguê
 
 ## Para visualizar
 1. Faça o download dos arquivos
-2. ```$ gzip -d nome_do_Arquivo```
+2. ```$ gzip -d nome_do_Arquivo.gz```
 3. Abra o arquivo
 
 <!--
