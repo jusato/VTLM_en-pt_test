@@ -1,0 +1,2 @@
+# Multi30k en-pt
+Extension of the Multi30k (Elliott et al., 2016) dataset with Portuguese translations. The translation of English captions into Portuguese was automatically performed using Google Translate API.
