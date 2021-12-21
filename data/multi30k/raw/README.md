@@ -1,5 +1,5 @@
 # Multi30k en-pt
-Extensão do Multi30k (Elliott et al., 2016) com traduções do idioma português. As traduções do inglês para o português foram realiazadas automaticamente usando API do Google Translate. 
+Extensão do Multi30k (Elliott et al., 2016) com traduções do idioma português. As traduções do inglês para o português foram realizadas automaticamente usando API do Google Translate. 
 
 ## Para visualizar
 1. Faça o download dos arquivos
